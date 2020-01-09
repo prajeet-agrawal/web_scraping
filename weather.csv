@@ -1,16 +1,16 @@
 Sn.,DAY,DATE,DESCRIPTION,HIGH / LOW,HUMIDITY
-1,Today,9 JAN,Rain,12°4°,85%
-2,Fri,10 JAN,Sunny,13°3°,77%
-3,Sat,11 JAN,Sunny,14°4°,68%
-4,Sun,12 JAN,Sunny,17°5°,67%
+1,Today,9 JAN,Rain,13°4°,87%
+2,Fri,10 JAN,Mostly Sunny,13°3°,78%
+3,Sat,11 JAN,Sunny,14°5°,69%
+4,Sun,12 JAN,Sunny,17°5°,68%
 5,Mon,13 JAN,Sunny,18°6°,66%
-6,Tue,14 JAN,Sunny,18°7°,62%
-7,Wed,15 JAN,Mostly Sunny,18°7°,53%
-8,Thu,16 JAN,Sunny,18°7°,54%
-9,Fri,17 JAN,Mostly Sunny,17°7°,56%
+6,Tue,14 JAN,Sunny,19°7°,62%
+7,Wed,15 JAN,Sunny,18°7°,53%
+8,Thu,16 JAN,Sunny,18°7°,55%
+9,Fri,17 JAN,Mostly Sunny,18°8°,57%
 10,Sat,18 JAN,Partly Cloudy,17°6°,57%
 11,Sun,19 JAN,Partly Cloudy,16°6°,57%
 12,Mon,20 JAN,PM Showers,15°6°,60%
-13,Tue,21 JAN,Partly Cloudy,15°6°,59%
-14,Wed,22 JAN,PM Showers,14°5°,60%
+13,Tue,21 JAN,Partly Cloudy,15°6°,60%
+14,Wed,22 JAN,PM Showers,15°5°,61%
 15,Thu,23 JAN,AM Showers,14°5°,64%
